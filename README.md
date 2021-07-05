@@ -1,4 +1,4 @@
-# Forecasting_Model_Comparation_and_Evaluation
+# Time_Series_Model_Comparation_and_Evaluation
 
 This report is aiming to use data in M3-competetion to explore various models and use them 
 to generate forecasts as well as evaluate the forecasts through different measures and aspects. 
